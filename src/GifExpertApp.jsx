@@ -18,6 +18,11 @@ export const GifExpertApp = () => {
 
   return (
     <>
+      <div className="container">
+        
+        <a href="https://amzn.to/4g4nU8F"><img className="amazon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckZToY8MPfbR4AV9nMBn9boLVvdE5F0_nOg&s" alt="foto" /></a>
+      </div>
+      <hr />
       <h1> Gifs de Anime </h1>
 
       <AddCategory
